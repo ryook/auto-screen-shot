@@ -1,0 +1,11 @@
+# virtualenv
+env/
+
+# pycharm
+.idea/
+
+# screenshot dir
+screenshots/
+
+geckodriver.log
+chromedriver
